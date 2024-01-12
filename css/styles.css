@@ -1,0 +1,14 @@
+body {
+    text-align: center;  
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+
+#header {
+    background-color: rgb(71, 71, 71);
+    color: rgb(255, 255, 255);
+    
+}
+
+ul .food-list {
+    color: rgb(158, 0, 26);
+}
