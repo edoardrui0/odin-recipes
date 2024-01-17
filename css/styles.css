@@ -1,14 +1,34 @@
 body {
     text-align: center;  
     font-family: Arial, "Times New Roman", sans-serif;
+    width: 500px;
+    margin: 0 auto;
 }
 
 #header {
     background-color: rgb(71, 71, 71);
     color: rgb(255, 255, 255);
-    
+    margin: 20px auto;
+    width: 500px;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+li {
+    margin-bottom: 5px;
 }
 
 ul .food-list {
     color: rgb(158, 0, 26);
+}
+ 
+.ingredient-list {
+    border: 5px solid rgb(122, 175, 122);
+}
+
+.ingredient-list h4 {
+    margin: 10px auto;
 }
